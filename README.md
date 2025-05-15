@@ -38,3 +38,6 @@ python -m pytest
 
 ## Continuous integration
 The tests are run through [a continuous integration workflow](.github/workflows/ci.yml) on different operating systems with different Python versions, upon a Pull Request and changes in main.
+
+## More best practices
+Check out the [SSC's coding guidelines](https://ssciwr.github.io/guidelines/) for more best practices and recommendations.
