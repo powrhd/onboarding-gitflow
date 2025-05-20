@@ -1,4 +1,4 @@
 pytest
 pytest-cov
-pre-commmit
+pre-commit
 numpy
